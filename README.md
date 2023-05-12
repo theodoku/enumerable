@@ -34,7 +34,7 @@ enumerable is a Ruby module that provides a set of methods that allow objects to
 <details>
 <summary>Ruby</summary>
   <ul>
-    <li><a href="https://rubygems.org/">PostgreSQL</a></li>
+    <li></li>
   </ul>
 </details>
 
